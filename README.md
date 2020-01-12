@@ -1,0 +1,2 @@
+# FUNCTIONs
+Applying functions
